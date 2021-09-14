@@ -1,0 +1,2 @@
+# memo
+Casually learned
