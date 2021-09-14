@@ -10,7 +10,7 @@
 
 - #### Overriding vs Overloading
 
-<img src="C:\Users\Administrator\Desktop\casual study notes\overriding&overloading.JPG" style="zoom:67%;" />
+<img src="https://github.com/yin-n/memo/blob/main/image/overriding%26overloading.JPG" style="zoom:67%;" />
 
 ​		Reference:
 
@@ -35,14 +35,14 @@
 
 - #### Compiler vs Interpreter
 
-  <img src="C:\Users\Administrator\Desktop\casual study notes\compiler&interpreter.JPG" style="zoom:80%;" />
+  <img src="https://github.com/yin-n/memo/blob/main/image/compiler%26interpreter.JPG" style="zoom:80%;" />
 
   
 
   A **compiler** is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code. The most common reason for converting source code is to create an executable
   program.
 
-  <img src="C:\Users\Administrator\Desktop\casual study notes\compile process.JPG" style="zoom:50%;" />
+  <img src="https://github.com/yin-n/memo/blob/main/image/compile%20process.JPG" style="zoom:50%;" />
 
   In computer science, an **interpreter** is a computer program that directly executes, i.e. performs, instructions written in a programming or scripting language, without previously compiling them into a machine language program. An interpreter generally uses one of the following strategies for program execution: parse the source code and perform its behavior directly. translate source code into some efficient intermediate representation and immediately execute this. explicitly execute stored pre-compiled code made by a compiler which is part of the interpreter system.
 
