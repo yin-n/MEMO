@@ -21,10 +21,13 @@ git config --global --unset https.proxy
 
 #### 	1.首先,要在settings--version control里面添加自己的账号 
 
-​		选择用login via tokens
-​		那么如何生成tokens?
-​		在github网页--settings--Developer settings--Personal access tokens--Generate new token(note 随便填写)
-​		 最后,将tokens 复制即可（建议将tokens保存到本地）。
+		选择用login via tokens
+
+    那么如何生成tokens?
+    
+在github网页--settings--Developer settings--Personal access tokens--Generate new token(note 随便填写)
+
+最后,将tokens 复制即可（建议将tokens保存到本地）。
 
 #### 	2.在github创建项目，并在clone下来
 
