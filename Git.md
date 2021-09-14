@@ -4,17 +4,16 @@
 
 （公司的网可能会屏蔽，关掉所有代理以及公司的VPN用自己手机的热点）
 
-```git
-git config --global https.proxy http://127.0.0.1:1080
+clone的时候一定要关闭公司的VPN
 
-git config --global https.proxy https://127.0.0.1:1080
+push的时候在桌面 git here--
+
+```git
 
 git config --global --unset http.proxy
 
 git config --global --unset https.proxy
 
-
-npm config delete proxy
 
 ```
 
