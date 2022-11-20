@@ -47,3 +47,9 @@ Remove git
 ```
 rm -rf .git
 ```
+```
+
+git add
+
+git commit
+
